@@ -1,0 +1,3 @@
+AJAX notes:
+  $.ajax
+  
